@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a Software QA Analyst working in São Paulo, Brazil.
+I'm a Software QA Analyst working in Sao Paulo, Brazil.
 
 ##
 
